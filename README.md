@@ -1,6 +1,7 @@
 # Cloud Provisioning - P2 Licensing in Microsoft Azure's Entra ID <p align="center">
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="793" height="331" alt="image" src="https://github.com/user-attachments/assets/125b8870-7dfd-4d33-9415-0f8dd4735b17" />
+
 </p>
 
 <h1>Fully Provisioning Accounts with P2 Licenses for Users (Azure)</h1>
@@ -18,7 +19,8 @@ users a P2 license in Entra ID.<br />
 <h2>Assigned Licenses</h2>
 
 <p>
-<img width="1404" height="709" alt="image" src="https://github.com/userattachments/assets/b56dd5be-9d99-455c-971b-87b868587458" />
+<img width="1601" height="438" alt="image" src="https://github.com/user-attachments/assets/f6b1ace9-229d-4d49-852f-71493e744548" />
+
 </p>
 <p>
 Assigned P2 license to user Chris Walker.
@@ -26,7 +28,8 @@ Assigned P2 license to user Chris Walker.
 <br />
 
 <p>
-<img width="1441" height="735" alt="image" src="https://github.com/userattachments/assets/39cc0299-8264-4329-abe8-4323398beba4" />
+<img width="1394" height="774" alt="image" src="https://github.com/user-attachments/assets/1698db52-e3f9-4886-9629-2e7d4fe6150c" />
+
 
 </p>
 <p>
